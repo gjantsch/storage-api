@@ -1,2 +1,2 @@
 # storage-api
-This a REST API written in NodeJS to store and manage files.
+This a REST API to store and manage files.
